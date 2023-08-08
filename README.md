@@ -6,7 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -54,6 +54,7 @@
 
 
 ## Contact
-Created by Jahid7786- and Abalaji2308.Please feel free to contact us!
+Created by Jahid Khan(@Jahid7786)- and Balaji Arumugam(@Abalaji2308).
+Please feel free to contact us!
 
 
