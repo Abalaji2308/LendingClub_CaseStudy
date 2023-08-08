@@ -54,6 +54,6 @@
 
 
 ## Contact
-Created by Jahid7786- and Abalaji2308 feel free to contact me!
+Created by Jahid7786- and Abalaji2308.Please feel free to contact us!
 
 
