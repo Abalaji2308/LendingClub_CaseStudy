@@ -18,6 +18,15 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Technologies Used
+- Python - version 3.8.3
+- Numpy - version 1.18.5
+- Pandas - version 1.0.5
+- Seaborn - version 0.11.0
+- Matplotlib - version 3.2.2
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 ## Conclusions
 - Majority of borrowers asked for rounded number that is 5000 , 10,000 as observed from the Distribution graph
 - Majority of the people were funded
@@ -43,14 +52,6 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- Python - version 3.8.3
-- Numpy - version 1.18.5
-- Pandas - version 1.0.5
-- Seaborn - version 0.11.0
-- Matplotlib - version 3.2.2
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 
 ## Contact
