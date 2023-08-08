@@ -54,7 +54,7 @@
 
 
 ## Contact
-Created by Jahid Khan(@Jahid7786)- and Balaji Arumugam(@Abalaji2308).
+Created by Jahid Khan (@Jahid7786) and Balaji Arumugam (@Abalaji2308).
 Please feel free to contact us!
 
 
